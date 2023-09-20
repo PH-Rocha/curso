@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(90, 80, 190, 0.5);
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: rgb(41, 40, 40);
+    margin: 0;
+}
