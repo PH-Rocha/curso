@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+main{
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 3px black;
+}
+article.noticia{
+    width: 800px;
+    height: 300px;
+    border: 1px solid black;
+}
+#imagem-artigo{
+    width: 800px;
+    height: 160px;
+    object-fit: cover;
+}
