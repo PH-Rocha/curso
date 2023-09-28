@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+table{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    display: table-cell;
+}
+
+th{
+    border: 1px solid;
+    border-color: #000BF3;
+    padding: 5px;
+    text-align: center;
+    height: 10px;
+}
+
+td{
+    border: 1px solid;
+    border-color: #000BF3;
+    padding: 20px;
+    height: 70px;
+}
+
